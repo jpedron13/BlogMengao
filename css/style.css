@@ -1,0 +1,64 @@
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+    text-align: center;
+}
+
+/* Títulos */
+h1 {
+    background-color: #1f0202;
+    color: white;
+    padding: 20px;
+    margin: 0;
+}
+
+/* Navegação */
+nav {
+    margin: 20px 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    background-color: #070000;
+    padding: 10px 15px;
+    margin: 0 5px;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-color: #b71c1c;
+}
+
+/* Imagens */
+.imagem-principal {
+    width: 80%;
+    max-width: 600px;
+    height: auto;
+    margin: 20px 0;
+}
+
+img {
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+/* Parágrafos */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    padding: 0 10px;
+}
+/* Fundo com as cores do Flamengo */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #d50000 50%, #000000 50%);
+    color: #fff; /* Deixa o texto em branco para contraste */
+    text-align: center;
+}
